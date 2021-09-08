@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ihc1_3</string>
+    <string name="send">Send</string>
+    <string name="x">X</string>
+    <string name="MainActivity2_name">Second Activity</string>
+    <string name="here_comes_the_message">here comes the message...</string>
+</resources>
